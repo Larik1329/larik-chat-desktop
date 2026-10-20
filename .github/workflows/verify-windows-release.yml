@@ -1,0 +1,27 @@
+name: Verify Windows installer
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Published candidate version
+        required: true
+        default: '0.1.5'
+permissions:
+  contents: read
+jobs:
+  upgrade:
+    runs-on: windows-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upgrade an old running client and verify complete shutdown
+        shell: pwsh
+        env:
+          CANDIDATE_VERSION: ${{ inputs.version }}
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $version = $env:CANDIDATE_VERSION
+          if ($version -notmatch '^\d+\.\d+\.\d+$') { throw 'Invalid candidate version' }
+          $file = Join-Path $env:RUNNER_TEMP 'larik-chat-candidate.exe'
+          Invoke-WebRequest "https://github.com/Larik1329/larik-chat-desktop/releases/download/v$version/Larik-Chat-$version-win-x64.exe" -OutFile $file
+          & ./.github/scripts/verify-windows-upgrade.ps1 -CandidateInstaller $file
