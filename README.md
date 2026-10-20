@@ -19,12 +19,11 @@
 | **Windows · x64** | [Скачать для Windows](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.5/Larik-Chat-0.1.5-win-x64.exe) | 0.1.5 |
 | **macOS · Apple Silicon** | [Скачать для M1, M2, M3, M4 и новее](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.4/Larik-Chat-0.1.4-mac-arm64.dmg) | 0.1.4 |
 | **macOS · Intel** | [Скачать для Intel Mac](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.4/Larik-Chat-0.1.4-mac-x64.dmg) | 0.1.4 |
-
 | **Android · телефоны и планшеты** | [Скачать APK](https://github.com/Larik1329/larik-chat-desktop/releases/download/android-v0.1.0/Larik-Chat-0.1.0-android.apk) | 0.1.0 |
 
 [Все версии и история изменений →](https://github.com/Larik1329/larik-chat-desktop/releases)
 
-> Сборки пока не имеют сертификата издателя. У Mac есть локальная ad-hoc подпись, но нет нотариализации Apple. Windows SmartScreen или macOS могут ограничить запуск. Не отключайте системную защиту ради установки.
+> Компьютерные сборки пока не имеют сертификата издателя. У Mac есть локальная ad-hoc подпись, но нет нотариализации Apple. Windows SmartScreen или macOS могут ограничить запуск. Не отключайте системную защиту ради установки.
 
 ## Что внутри
 
