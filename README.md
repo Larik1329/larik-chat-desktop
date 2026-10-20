@@ -4,7 +4,7 @@
   <p><strong>Чаты, звонки и трансляции — в отдельном приложении.</strong></p>
   <p>Знакомый интерфейс <a href="https://chat.larik.org">chat.larik.org</a>, глобальная клавиша микрофона и работа в фоне.</p>
   <p>
-    <a href="https://github.com/Larik1329/larik-chat-desktop/releases"><img alt="Загрузки" src="https://img.shields.io/github/downloads/Larik1329/larik-chat-desktop/total?color=5865f2&label=Загрузки" /></a>
+    <a href="https://github.com/Larik1329/larik-chat-desktop/releases"><img alt="Загрузки" src="assets/downloads.svg" /></a>
     <img alt="Платформы" src="https://img.shields.io/badge/Платформы-Windows%20%C2%B7%20macOS-5865f2" />
     <a href="https://chat.larik.org"><img alt="Открыть в браузере" src="https://img.shields.io/badge/Открыть-в%20браузере-3ba55c" /></a>
   </p>
