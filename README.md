@@ -16,9 +16,9 @@
 
 | Платформа | Установщик | Версия |
 | :--- | :--- | :--- |
-| **Windows · x64** | [Скачать для Windows](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.5/Larik-Chat-0.1.5-win-x64.exe) | 0.1.5 |
-| **macOS · Apple Silicon** | [Скачать для M1, M2, M3, M4 и новее](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.4/Larik-Chat-0.1.4-mac-arm64.dmg) | 0.1.4 |
-| **macOS · Intel** | [Скачать для Intel Mac](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.4/Larik-Chat-0.1.4-mac-x64.dmg) | 0.1.4 |
+| **Windows · x64** | [Скачать для Windows](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.6/Larik-Chat-0.1.6-win-x64.exe) | 0.1.6 |
+| **macOS · Apple Silicon** | [Скачать для M1, M2, M3, M4 и новее](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.6/Larik-Chat-0.1.6-mac-arm64.dmg) | 0.1.6 |
+| **macOS · Intel** | [Скачать для Intel Mac](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.6/Larik-Chat-0.1.6-mac-x64.dmg) | 0.1.6 |
 | **Android · телефоны и планшеты** | [Скачать APK](https://github.com/Larik1329/larik-chat-desktop/releases/download/android-v0.1.0/Larik-Chat-0.1.0-android.apk) | 0.1.0 |
 
 [Все версии и история изменений →](https://github.com/Larik1329/larik-chat-desktop/releases)
@@ -31,6 +31,7 @@
 - **Голос и видео.** Звонки, голосовые каналы, выбор устройств и индивидуальная громкость.
 - **Трансляции.** Демонстрация экрана с настройками разрешения, FPS и битрейта.
 - **Свои горячие клавиши на Windows/Mac.** Микрофон и отключение всего звука Chat из другого приложения, когда окно свёрнуто.
+- **Автозапуск на Windows/Mac.** Включён по умолчанию; отключается в «Голос и видео → Запуск приложения» или в меню «Окно».
 - **Работа в фоне на Windows/Mac.** Закрытие окна сохраняет соединение; открыть Chat можно через системный значок.
 
 Для работы требуется интернет и учётная запись Larik Chat. Используется тот же сервис, что и в браузере; повторно создавать аккаунт не нужно.
