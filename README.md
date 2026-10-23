@@ -16,9 +16,9 @@
 
 | Платформа | Установщик | Версия |
 | :--- | :--- | :--- |
-| **Windows · x64** | [Скачать для Windows](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.12/Larik-Chat-0.1.12-win-x64.exe) | 0.1.12 |
-| **macOS · Apple Silicon** | [Скачать для M1, M2, M3, M4 и новее](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.7/Larik-Chat-0.1.7-mac-arm64.dmg) | 0.1.7 |
-| **macOS · Intel** | [Скачать для Intel Mac](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.7/Larik-Chat-0.1.7-mac-x64.dmg) | 0.1.7 |
+| **Windows · x64** | [Скачать для Windows](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.13/Larik-Chat-0.1.13-win-x64.exe) | 0.1.13 |
+| **macOS · Apple Silicon** | [Скачать для M1, M2, M3, M4 и новее](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.13/Larik-Chat-0.1.13-mac-arm64.dmg) | 0.1.13 |
+| **macOS · Intel** | [Скачать для Intel Mac](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.13/Larik-Chat-0.1.13-mac-x64.dmg) | 0.1.13 |
 | **Android · телефоны и планшеты** | [Скачать APK](https://github.com/Larik1329/larik-chat-desktop/releases/download/android-v0.1.0/Larik-Chat-0.1.0-android.apk) | 0.1.0 |
 
 [Все версии и история изменений →](https://github.com/Larik1329/larik-chat-desktop/releases)
