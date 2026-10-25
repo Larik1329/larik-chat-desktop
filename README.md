@@ -16,9 +16,9 @@
 
 | Платформа | Установщик | Версия |
 | :--- | :--- | :--- |
-| **Windows · x64** | [Скачать для Windows](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.24/Larik-Chat-0.1.24-win-x64.exe) | 0.1.24 |
-| **macOS · Apple Silicon** | [Скачать для M1, M2, M3, M4 и новее](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.18/Larik-Chat-0.1.18-mac-arm64.dmg) | 0.1.18 |
-| **macOS · Intel** | [Скачать для Intel Mac](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.18/Larik-Chat-0.1.18-mac-x64.dmg) | 0.1.18 |
+| **Windows · x64** | [Скачать для Windows](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.25/Larik-Chat-0.1.25-win-x64.exe) | 0.1.25 |
+| **macOS · Apple Silicon** | [Скачать для M1, M2, M3, M4 и новее](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.25/Larik-Chat-0.1.25-mac-arm64.dmg) | 0.1.25 |
+| **macOS · Intel** | [Скачать для Intel Mac](https://github.com/Larik1329/larik-chat-desktop/releases/download/v0.1.25/Larik-Chat-0.1.25-mac-x64.dmg) | 0.1.25 |
 | **Android · телефоны и планшеты** | [Скачать APK](https://github.com/Larik1329/larik-chat-desktop/releases/download/android-v0.1.1/Larik-Chat-0.1.1-android.apk) | 0.1.1 |
 
 [Все версии и история изменений →](https://github.com/Larik1329/larik-chat-desktop/releases)
@@ -29,7 +29,7 @@
 
 - **Сообщения и друзья.** Личные и групповые чаты, каналы, ответы, реакции и вложения.
 - **Голос и видео.** Звонки, голосовые каналы, выбор устройств и индивидуальная громкость.
-- **Трансляции.** Демонстрация экрана с настройками разрешения, FPS и битрейта, смена окна во время показа и обновляемый список источников. В Windows доступны свёрнутые окна: выбранное окно разворачивается перед захватом.
+- **Трансляции.** Единое окно выбора с превью приложений и экранов, пресеты SD / HD / Ultra, настройки через шестерёнку и запоминание последних параметров. Разрешение «Источник», до 144 FPS и ручной потолок до 1000 Мбит/с; фактическое качество зависит от источника, устройства и сети. Смена окна во время показа и обновляемый список источников. В Windows доступны свёрнутые окна: выбранное окно разворачивается перед захватом.
 - **Свои горячие клавиши на Windows/Mac.** Микрофон и отключение всего звука Chat из другого приложения, когда окно свёрнуто.
 - **Автозапуск на Windows/Mac.** Включён по умолчанию; отключается в «Голос и видео → Запуск приложения» или в меню «Окно».
 - **Работа в фоне на Windows/Mac.** Закрытие окна сохраняет соединение; открыть Chat можно через системный значок.
